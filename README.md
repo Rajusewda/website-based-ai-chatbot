@@ -181,15 +181,13 @@ The LLM layer is designed to be swappable for hosted models in production enviro
 
 ## 📷 Application Screenshots
 
-### 🔹 Main Interface
+### 🖥️ Main Interface
 
-![Main UI](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_home.png)
+<img src="https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_home.png" width="900"/>
 
----
+### 💬 Sample Question Answering
 
-### 🔹 Sample Question Answering
-
-![Chat Example](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_answer.png)
+<img src="https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_answer.png" width="900"/>
 📄 Conclusion
 
 This project demonstrates a production-style RAG system focused on correctness, explainability, and safe AI behavior.
