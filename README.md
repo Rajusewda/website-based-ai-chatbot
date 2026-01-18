@@ -179,22 +179,17 @@ The project is designed for local execution, and complete local setup steps are 
 
 The LLM layer is designed to be swappable for hosted models in production environments.
 
-## 🖥️ Application Screenshots
-
-## 🖥️ Application Screenshots
+## 📷 Application Screenshots
 
 ### 🔹 Main Interface
 
 ![Main UI](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_home.png)
-
-
 
 ---
 
 ### 🔹 Sample Question Answering
 
 ![Chat Example](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_answer.png)
-
 ⸻
 
 📄 Conclusion
