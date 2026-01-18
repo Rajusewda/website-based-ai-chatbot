@@ -181,6 +181,8 @@ The LLM layer is designed to be swappable for hosted models in production enviro
 
 ## 🖥️ Application Screenshots
 
+## 🖥️ Application Screenshots
+
 ### 🔹 Main Interface
 
 ![Main UI](screenshots/ui_home.png)
