@@ -183,14 +183,13 @@ The LLM layer is designed to be swappable for hosted models in production enviro
 
 ### 🔹 Main Interface
 
-![Main UI](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_home.png)
+![Main UI](https://github.com/Rajusewda/website-based-ai-chatbot/blob/main/screenshots/ui_answer.png)
 
 ---
 
 ### 🔹 Sample Question Answering
 
-![Chat Example](https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_answer.png)
-⸻
+![Chat Example](https://github.com/Rajusewda/website-based-ai-chatbot/blob/main/screenshots/ui_home.png)
 
 📄 Conclusion
 
