@@ -179,6 +179,19 @@ The project is designed for local execution, and complete local setup steps are 
 
 The LLM layer is designed to be swappable for hosted models in production environments.
 
+
+## 🖥️ Application Screenshots
+
+### 🔹 Main Interface
+<p align="center">
+  <img src="screenshots/ui_home.png" alt="Main UI" width="85%">
+</p>
+
+### 🔹 Sample Question Answering
+<p align="center">
+  <img src="screenshots/ui_answer.png" alt="Chat Example" width="85%">
+</p>
+
 ⸻
 
 📄 Conclusion
