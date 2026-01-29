@@ -188,6 +188,16 @@ The LLM layer is designed to be swappable for hosted models in production enviro
 ### 💬 Sample Question Answering
 
 <img src="https://raw.githubusercontent.com/Rajusewda/website-based-ai-chatbot/main/screenshots/ui_answer.png" width="900"/>
+
+### Testing
+The system was tested using relevant and out-of-scope questions to validate retrieval accuracy and hallucination control.
+
+### Limitations
+- Dynamic or JavaScript-heavy pages may require advanced crawling.
+- System depends on website content quality.
+
+
+
 📄 Conclusion
 
 This project demonstrates a production-style RAG system focused on correctness, explainability, and safe AI behavior.
